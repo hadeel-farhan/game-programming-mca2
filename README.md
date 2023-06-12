@@ -1,6 +1,8 @@
 # game-programming-mca2
 Game Programming Course on Unity second assignment
 
+<img width="1026" alt="Screen Shot 2023-06-12 at 5 19 53 PM" src="https://github.com/hadeel-farhan/game-programming-mca2/assets/71216254/00e67f77-9178-4f7b-a1be-cee220e2d1d5">
+
 
 # Collection Game
 High-Concept Document
